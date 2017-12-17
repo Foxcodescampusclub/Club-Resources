@@ -3,6 +3,11 @@ This repository is to be maintained for all the club resources that are required
 
 The club resources are listed as follows (add if anything is left out):
 
-Campus Club website : https://campus.mozilla.community
-Discourse Forum     : http://discourse.mozilla.org/
+<ul>
+<li>Campus Club website : https://campus.mozilla.community</li>
+<li>Discourse Forum     : http://discourse.mozilla.org/</li>
+<li>Booze.</li>
+</ul>
+  
+
 
