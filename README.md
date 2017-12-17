@@ -6,7 +6,8 @@ The club resources are listed as follows (add if anything is left out):
 <ul>
 <li>Campus Club website : https://campus.mozilla.community</li>
 <li>Discourse Forum     : http://discourse.mozilla.org/</li>
-<li>Booze.</li>
+<li>Club Official Email ID : foxcodes@moderncoe.edu.in</li>
+<li>Club Support Email ID : mozcampusclubpesmcoe@gmail.com</li>
 </ul>
   
 
