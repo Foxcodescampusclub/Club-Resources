@@ -8,6 +8,8 @@ The club resources are listed as follows (add if anything is left out):
 <li>Discourse Forum     : http://discourse.mozilla.org/</li>
 <li>Club Official Email ID : foxcodes@moderncoe.edu.in</li>
 <li>Club Support Email ID : mozcampusclubpesmcoe@gmail.com</li>
+<li>Link to etherpad : https://public.etherpad-mozilla.org/p/FoxCodesCampusClub
+</li>
 </ul>
   
 
