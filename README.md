@@ -10,6 +10,8 @@ The club resources are listed as follows (add if anything is left out):
 <li>Club Support Email ID : mozcampusclubpesmcoe@gmail.com</li>
 <li>Link to etherpad : https://public.etherpad-mozilla.org/p/FoxCodesCampusClub
 </li>
+<li>Club Twitter Handle : https://twitter.com/PesmcoeClub
+</li>
 </ul>
   
 
